@@ -1,6 +1,6 @@
 body{
-    background:violet;
-    color:yellow;
+   { background: blue
+        color : red ;
 }
 #firstparagraph {
     font-size: 76px;
@@ -11,3 +11,4 @@ body{
 font-family: arial;
 text-align: center;
 }
+
