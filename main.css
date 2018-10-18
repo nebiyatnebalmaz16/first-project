@@ -1,0 +1,13 @@
+body{
+    background:violet;
+    color:yellow;
+}
+#firstparagraph {
+    font-size: 76px;
+    font-weight:bold;
+}
+
+.headers {
+font-family: arial;
+text-align: center;
+}
